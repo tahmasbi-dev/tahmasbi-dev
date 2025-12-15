@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi
 
-<!--
-**tahmasbi-dev/tahmasbi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend / systems engineer focused on building
+secure, event-driven APIs and subscription systems.
 
-Here are some ideas to get you started:
+### Core skills
+- Go (Gin, gRPC)
+- Auth & access control
+- Subscription & payment logic
+- Event-driven architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+- Production-grade APIs
+- Access & entitlement systems
+- Crypto-friendly backend services
+
+Open to backend contract work.
